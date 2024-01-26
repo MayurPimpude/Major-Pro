@@ -30,8 +30,7 @@ Navigate to the backend directory: `cd backend` 📂
 Install dependencies: `pip install -r requirements.txt` 🛠️
 Set up the ML model:
 - Download necessary model files: Follow instructions in the model directory. 📦
-- Load the model: Update app.py with model loading code (specific to your model). 🤖
-Run the Flask app: `python app.py` 🚀
+- 🤖Run the Flask app: `python app.py` 🚀
 
 **Frontend Setup:** 🌐
 
