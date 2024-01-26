@@ -23,7 +23,22 @@ Millions of children face malnutrition under the age of five, leading to growth 
 1. **Clone the repo:** `git clone https://github.com/MayurPimpude/Major-Pro`
 2. **Install dependencies:** Refer to the requirements.txt file.
 3. **Set up the ML model:** Follow the instructions in the model directory.
-4. **Run the app:** set Frontend and Backend.
-5. **Contribute to the cause:** Fork the repo and share your ideas! Let's make Malnutrition Guardian even stronger! 💪🌈
 
-Together, let's protect the tiny titans from malnutrition! 🤰🌟
+**Backend Setup:** 🧠
+
+Navigate to the backend directory: `cd backend` 📂
+Install dependencies: `pip install -r requirements.txt` 🛠️
+Set up the ML model:
+- Download necessary model files: Follow instructions in the model directory. 📦
+- Load the model: Update app.py with model loading code (specific to your model). 🤖
+Run the Flask app: `python app.py` 🚀
+
+**Frontend Setup:** 🌐
+
+Navigate to the frontend directory: `cd frontend` 📂
+Install dependencies: `npm install` 🛠️
+Start the React development server: `npm start` 🚀
+
+Now you should be able to access the Malnutrition Guardian app in your browser, usually at http://localhost:3000/. 🌐👩‍💻
+
+Get ready to make a difference with Malnutrition Guardian! 🌈🤰✨
